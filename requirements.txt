@@ -5,6 +5,8 @@ astor==0.8.1
 attrs==21.2.0
 autopep8==1.5.7
 backcall==0.2.0
+transformers
+torch
 backports.zoneinfo==0.2.1
 base58==2.1.0
 bleach==4.1.0
